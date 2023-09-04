@@ -1,5 +1,6 @@
 # Entendendo Algoritmos
 ![Livro Entendendo Algoritmos](https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg)
+
 Resumo do Algoritmos do livro do autor "Aditya Y. Bhargava":
 + [Capítulo 01 - Introdução a algoritmos](Cap%2001%20-%20Introdução%20a%20algoritmos/)
 + [Capítulo 02 - Ordenação por seleção](Cap%2002%20-%20Ordenação%20por%20seleção/)
